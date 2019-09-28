@@ -1,0 +1,10 @@
+Fida:
+-linear (1)
+-dy_dx (4)
+Zarif:
+-1st degree simultaneous equation (3)
+--3 degree
+--2 degree
+Muhammad:
+-Graph plot (5)
+_Quadratic (2)
